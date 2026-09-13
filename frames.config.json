@@ -1,0 +1,20 @@
+{
+  "ambient": {
+    "video": "Light_moving_across_gallery_1080p_20260912195427.mp4",
+    "width": 1600,
+    "fps": 12,
+    "quality": 74
+  },
+  "reel": {
+    "video": "Light_moving_across_gallery-clip-1_20260912204116.mp4",
+    "width": 1600,
+    "fps": 12,
+    "quality": 78
+  },
+  "closing": {
+    "video": "Empty_ballroom_with_warm_lights_20260912200154.mp4",
+    "width": 1920,
+    "fps": 12,
+    "quality": 80
+  }
+}
